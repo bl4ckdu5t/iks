@@ -2,8 +2,8 @@
 	CEO [Nigeria]: Mrs Yemi Owatemi
 
 	Web designer: Joseph Rex
-	Twitter: @joerex101
-	website: ostrich-dev.com
+	Twitter: @josephrexme
+	website: josephrex.me
 		
 
 /* SITE */
